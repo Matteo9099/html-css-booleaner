@@ -22,13 +22,10 @@ header h1, h5{
     margin: auto;
 }
 
-section #title{
+.title{
     font-size: 60px;
 }
 
-section .sottotitolo-founder{
-    margin-left: 5px;
-}
 
 section #evidenziatura{
     color: rgb(0, 199, 235);
@@ -36,7 +33,6 @@ section #evidenziatura{
 
 section .sottotitolo{
     font-size: 0.7em;
-    margin-left: 5px;
 }
 
 .container-foto{
@@ -80,7 +76,6 @@ section div img{
 .testo-centrale-basso{
     width: 100%;
     margin-top: 60px;
-    margin-left: 20px;
 }
 
 .section-table{
