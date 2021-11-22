@@ -17,6 +17,11 @@ header h1, h5{
 }
 */
 
+.container{
+    width: 95%;
+    margin: auto;
+}
+
 section #title{
     font-size: 60px;
 }
