@@ -10,12 +10,28 @@
     width: 100%;
 }
 
-/*problema, ci torno dopo
-header h1, h5{
-    position: relative;
-    left: 50px;
+
+#header-logo{
+    color: #ffffff;
 }
-*/
+
+.header-logo-item{
+  width: 200px;
+}
+
+.header-logo-item h5{
+    position: relative;
+    top: 45px;
+    left: 50px;
+    font-size: 15px;
+}
+
+.header-logo-item h1{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    font-size: 40px;
+}
 
 .container{
     width: 95%;
