@@ -79,11 +79,22 @@ section div img{
 }
 
 .section-table{
-    width: 100%;
-    background-color: lightblue;
     margin-top: 60px;
+    background-color: lightblue;
 }
 
-section tabel{
+section table{
     width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    width: 33%;
+    text-align: left;
+    background-color: rgb(0, 141, 235);
+}
+
+
+.colore-white{
+    background-color: #f5f5f5;
 }
