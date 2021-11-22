@@ -61,3 +61,12 @@ section div img{
 .speciale-text{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.testo-centrale{
+    width: 100%;
+    margin-top: 60px
+}
+
+.special-evidenziatore{
+    background-color: rgb(241, 230, 132);
+}
