@@ -77,3 +77,13 @@ section div img{
     margin-top: 60px;
     margin-left: 20px;
 }
+
+.section-table{
+    width: 100%;
+    background-color: lightblue;
+    margin-top: 60px;
+}
+
+section tabel{
+    width: 100%;
+}
